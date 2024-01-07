@@ -1,0 +1,65 @@
+*{
+    margin: 0 px;
+    padding: 0px;
+}
+.bg-image{
+    width: 1600px;
+    height: 800px;
+    /* position: relative; */
+    background-image: url('../images/banner/banner1.png');
+    /* background-size: cover; */
+    flex-shrink: 0;
+    display: flex;
+ 
+}
+.bg-overley{
+    color:  #151414;
+text-right: 40px;
+
+font-size: 30px;
+
+font-weight: 10px;
+margin: 200px;
+
+
+}
+.head-color{
+    color:#151414
+    
+}
+.pera-color{
+    color:#444343;
+}
+.overlay-position{
+  
+  margin-left: 700px;
+  padding-left:60 px;
+  text-align: right10px ;
+  font-display: flex;
+}
+.btn-primary{
+    border-radius: 5px;
+background: #F15B22;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+margin-left: 300px;
+border: none;
+}
+.btn-color{
+   color: #FFF;
+}
+.persion-item{
+    margin-left: 100px;
+    color: pink;
+    height: 800px;
+    weight:450px
+   
+
+
+}
+/* #color{
+    background-color: red;
+}
+ */
+
